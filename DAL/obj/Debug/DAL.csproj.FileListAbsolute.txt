@@ -1,0 +1,6 @@
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula3\DAL\bin\Debug\DAL.dll
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula3\DAL\bin\Debug\DAL.pdb
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula3\DAL\obj\Debug\DAL.dll
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula3\DAL\obj\Debug\DAL.pdb

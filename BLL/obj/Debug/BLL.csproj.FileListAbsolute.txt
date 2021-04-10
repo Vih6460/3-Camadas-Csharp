@@ -1,0 +1,9 @@
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula3\BLL\bin\Debug\BLL.dll
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula3\BLL\bin\Debug\BLL.pdb
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula3\BLL\bin\Debug\DAL.dll
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula3\BLL\bin\Debug\DAL.pdb
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula3\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula3\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula3\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula3\BLL\obj\Debug\BLL.dll
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula3\BLL\obj\Debug\BLL.pdb
